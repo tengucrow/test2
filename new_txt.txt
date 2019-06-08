@@ -1,0 +1,3 @@
+// vim:ft=blog_e fdm=syntax go-=m go-=T go-=r go-=L go-=e ar acd
+dasdfasdfasd'
+'asdfasdfasdfasdfasdf
